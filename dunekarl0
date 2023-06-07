@@ -12,7 +12,7 @@ Settings = {
     ["Auto Mailbox"] = {
         ["Recipient"] = "sdwoeixas", -- Person To Send To
         ["Min Dias"] = 100000000000, -- Minumum Gems
-        ["Enabled"] = true
+        ["Enabled"] = false
     },
 	["Multipliers"] = {
 		["Giant Chest"] = 0,
